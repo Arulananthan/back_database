@@ -85,9 +85,9 @@ error_reporting(0);
 									try{
 									$post = array('from'=> 'from mail',
 									'fromName' => 'Yourname',
-									'apikey' => 'f7g98g7fg5f6f7kjk59s9f',
+									'apikey' => 'Your APIkey',
 									'subject' => 'backuop database',
-									'to' => 'sample@gmail.com',
+									'to' => 'TO mail',
 									'bodyHtml' => 'database backup files',
 									'bodyText' => '',
 									'isTransactional' => false,
